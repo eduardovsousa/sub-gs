@@ -30,6 +30,9 @@ Pensando em uma forma de tornar a assistência médica mais acessível, rápida 
    ```bash
    flutter run
    ```
+   Escolha como deseja executar o projeto.
+   
+   **RECOMENDAÇÃO: Utilize o Chrome**
 
 1. #### Conceder Permissões:
 
