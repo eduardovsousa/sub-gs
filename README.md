@@ -1,6 +1,6 @@
 # Mental Health
 
-Este é um aplicativo para bem-estar mental que oferece exercícios e técnicas de relaxamento para os usuários.
+Pensando em uma forma de tornar a assistência médica mais acessível, rápida e precisa, este é um aplicativo para bem-estar mental que oferece exercícios e técnicas de relaxamento para os usuários, a um toque do seu celular.
 
 ## Instalação
 
